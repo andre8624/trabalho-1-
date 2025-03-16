@@ -58,7 +58,7 @@ header {
     display: flex;
     align-items: center;
     background: white;
-    padding: 5px;
+    padding: 20REM;
     border-radius: 5px;
 }
 
