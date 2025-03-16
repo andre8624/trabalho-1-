@@ -17,6 +17,7 @@ header {
 .menu {
     position: relative;
     display: flex;
+    align-items: center;
 }
 
 .menu-button {
