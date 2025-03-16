@@ -9,7 +9,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    color: rgb(65, 130, 252);
+    color: rgb(77, 103, 219);
     padding: 10px 20px;
 }
 
@@ -58,7 +58,8 @@ header {
     display: flex;
     align-items: center;
     background: white;
-    padding: 20REM;
+    margin: 10REM;
+    padding: 5px;
     border-radius: 5px;
 }
 
