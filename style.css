@@ -74,3 +74,6 @@ header {
     cursor: pointer;
     color: #1565c0;
 }
+.port {
+    margin-right: 10rem;
+}
