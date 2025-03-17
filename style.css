@@ -84,9 +84,9 @@ header {
     margin-left: 10px;
 }
 .port{ 
-    margin-left: -40px; 
+    margin-left: -100px; 
     color: rgb(77, 103, 219); 
     font-size: 30px; 
     cursor: pointer; 
-    padding-right: 30px;
+    padding-right: 50px;
 }
