@@ -92,3 +92,39 @@ header {
     cursor: pointer; 
     padding-right: 50px;
 }
+nav {
+    padding: 10px;
+    background-color: #346934; 
+    text-align: center;
+ }
+ nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex; /* Exibir os itens em linha */
+    flex-wrap: wrap; /* Permite que os itens quebrem para a próxima linha */
+    justify-content: center; /* Centraliza os itens */
+ }
+ nav ul li {
+    display: inline;
+    margin: 5px; /* Adiciona um pouco de margem entre os itens */
+ }
+ nav ul li a {
+    color: #ffffff; 
+    text-decoration: none;
+    font-size: 1.25em;
+    padding: 10px 15px;
+    transition: background-color 0.3s ease;
+ }
+ nav ul li a:hover {
+    background-color: #113f08; 
+ }
+ @media (max-width: 600px) {
+    nav ul {
+        flex-direction: column; 
+        align-items: center; 
+    }
+ 
+    nav ul li {
+        margin:
+    }
+ 
