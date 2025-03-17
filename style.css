@@ -81,11 +81,8 @@ header {
 }
 
 .material-icons {
-   
     cursor: pointer;
-    color: #000000;
-    margin-left: 10px;
-    
+    color: #000000; 
 }
 .port{ 
     margin-left: -100px; 
