@@ -92,38 +92,3 @@ header {
     cursor: pointer; 
     padding-right: 50px;
 }
-nav {
-    padding: 10px;
-    text-align: center;
-    margin-left: -100px; 
-    font-size: 20px; 
-    cursor: pointer; 
-    padding-right: 50px;
- }
- nav ul {
-    list-style-type: none;
-    padding: 0;
-    display: flex; 
-    flex-wrap: wrap; 
-    justify-content: center;
- }
- nav ul li {
-    display: inline;
-    margin: 5px; 
- }
- nav ul li a {
-    color: #ffffff; 
-    text-decoration: none;
-    font-size: 1.25em;
-    padding: 10px 15px;
-    transition: background-color 0.3s ease;
- }
- nav ul li a:hover {
-    background-color: #487ec5; 
- }
- @media (max-width: 600px) {
-    nav ul {
-        flex-direction: column; 
-        align-items: center; 
-    }
-}
