@@ -95,10 +95,10 @@ header {
 nav {
     padding: 10px;
     text-align: center;
-    margin-left: -100px; 
+  
     font-size: 30px; 
     cursor: pointer; 
-   
+    padding-right: 50px;
  }
  nav ul {
     list-style-type: none;
