@@ -94,7 +94,6 @@ header {
 }
 nav {
     padding: 10px;
-    
     text-align: center;
  }
  nav ul {
@@ -102,15 +101,24 @@ nav {
     padding: 0;
     display: flex; 
     flex-wrap: wrap; 
-    justify-content: center; /
+    justify-content: center;
  }
  nav ul li {
     display: inline;
-    margin: 5px; /
+    margin: 5px; 
  }
  nav ul li a {
     color: #ffffff; 
     text-decoration: none;
     font-size: 1.25em;
     padding: 10px 15px;
+    transition: background-color 0.3s ease;
  }
+ nav ul li a:hover {
+    background-color: #487ec5; 
+ }
+ @media (max-width: 600px) {
+    nav ul {
+        flex-direction: column; 
+        align-items: center; 
+    }
