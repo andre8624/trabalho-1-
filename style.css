@@ -18,7 +18,7 @@ header {
 
 .menu {
     position: relative;
-    background: #4181ca; 
+    
 }
 
 .menu-button {
@@ -36,7 +36,7 @@ header {
     position: absolute;
     top: 40px;
     left: 0;
-    background: #bbdefb; 
+    background: #81a5c2; 
     color: black;
     list-style: none;
     padding: 10px;
