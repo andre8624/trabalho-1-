@@ -94,7 +94,7 @@ header {
 }
 nav {
     padding: 10px;
-    background-color: #346934; 
+    
     text-align: center;
  }
  nav ul {
@@ -113,5 +113,4 @@ nav {
     text-decoration: none;
     font-size: 1.25em;
     padding: 10px 15px;
-    transition: background-color 0.3s ease;
  }
