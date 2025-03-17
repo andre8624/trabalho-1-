@@ -88,4 +88,5 @@ header {
     color: rgb(77, 103, 219); 
     font-size: 30px; 
     cursor: pointer; 
+    padding-right: 10px;
 }
