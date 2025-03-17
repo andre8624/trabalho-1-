@@ -61,7 +61,11 @@ header {
     margin: 10REM;
     padding: 5px;
     border-radius: 5px;
-    margin-block:AUTO;
+   
+    margin: auto;
+    width: 
+    max-width: 
+}
 }
 
 .search-bar input {
