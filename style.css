@@ -85,10 +85,20 @@ header {
     color: #000000;
     margin-left: 10px;
 }
-
+.port{ 
+    margin-left: -100px; 
+    color: rgb(77, 103, 219); 
+    font-size: 30px; 
+    cursor: pointer; 
+    padding-right: 50px;
+}
 nav {
     padding: 10px;
     text-align: center;
+    margin-left: -100px; 
+    font-size: 30px; 
+    cursor: pointer; 
+    padding-right: 50px;
  }
  nav ul {
     list-style-type: none;
