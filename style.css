@@ -100,13 +100,13 @@ nav {
  nav ul {
     list-style-type: none;
     padding: 0;
-    display: flex; /* Exibir os itens em linha */
-    flex-wrap: wrap; /* Permite que os itens quebrem para a próxima linha */
-    justify-content: center; /* Centraliza os itens */
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; /
  }
  nav ul li {
     display: inline;
-    margin: 5px; /* Adiciona um pouco de margem entre os itens */
+    margin: 5px; /
  }
  nav ul li a {
     color: #ffffff; 
