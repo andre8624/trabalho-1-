@@ -119,7 +119,7 @@ nav {
  }
  nav ul li a:hover {
     background-color: #082b3f; 
-    border-radius: 3px;
+    border-radius: 5px;
  }
  @media (max-width: 600px) {
     nav ul {
