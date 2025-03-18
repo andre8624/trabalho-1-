@@ -133,6 +133,9 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;  
-    color: #113549;
+    color: gradient(90, 30, 30);
     flex-direction: column;
+}
+.materias {
+    color: #000000;
 }
