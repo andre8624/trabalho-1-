@@ -134,4 +134,5 @@ nav {
     justify-content: center;
     align-items: center;  
     color: #113549;
+    flex-direction: column;
 }
