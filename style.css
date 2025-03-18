@@ -4,8 +4,15 @@
 }
 body {
     font-family: Arial, sans-serif;
+}
+.a1{
+     
     background-color: #e3f2fd; 
 }
+.a{
+    background-color: #e5f8dc; 
+}
+
 
 header {
     display: flex;
