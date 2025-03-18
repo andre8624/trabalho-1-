@@ -4,7 +4,7 @@
 }
 body {
     font-family: Arial, sans-serif;
-    background-color: #000000; 
+    background-color: #bfd7f7; 
 }
 
 header {
@@ -86,13 +86,6 @@ header {
     color: #000000;
     margin-left: 10px;
 }
-.port{ 
-    margin-left: -100px; 
-    color: rgb(77, 103, 219); 
-    font-size: 30px; 
-    cursor: pointer; 
-    padding-right: 50px;
-}
 nav {
     padding: 10px;
     text-align: center;
@@ -129,10 +122,19 @@ nav {
     }
 }
 .Portfólio {
-    font-size: 3rem;
+    font-size: 5rem;
     display: flex;
     justify-content: center;
     align-items: center;  
-    color: #082b3f;
+    color: #08126d;
     flex-direction: column;
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    flex-direction: column;
+}
+.materias{
+    font-size: 2.4rem;
 }
