@@ -9,6 +9,7 @@
     --background: #bbdefb;
     --menu: white;
     --lista-background:#90caf9;
+    --nav:rgb(136, 136, 173);
 }
 body {
     font-family: Arial, sans-serif;
@@ -63,13 +64,13 @@ header {
 }
 
 .menu-list a:hover {
-    background: #90caf9;
+    background: var(--lista-background);
 }
 
 .search-bar {
     display: flex;
     align-items: center;
-    background: white;
+    background: var(--menu);
     margin: 10REM;
     padding: 5px;
     border-radius: 5px;
@@ -90,7 +91,7 @@ header {
 
 .material-icons {
     cursor: pointer;
-    color: #000000;
+    color: var(--texto1);
     margin-left: 10px;
 }
 nav {
@@ -119,7 +120,7 @@ nav {
     transition: background-color 0.3s ease;
  }
  nav ul li a:hover {
-    background-color: #082b3f; 
+    background-color: var(); 
     border-radius: 5px;
  }
  @media (max-width: 600px) {
