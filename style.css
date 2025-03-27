@@ -5,9 +5,10 @@
 :root{
     --header-color: #000000;
     --lista: #81a5c2; 
-    --lista
+    --lista-color:black;
     --background: #bbdefb;
-    -menu: white;
+    --menu: white;
+    --lista-menu:
 }
 body {
     font-family: Arial, sans-serif;
@@ -58,7 +59,6 @@ header {
 
 .menu-list a {
     text-decoration: none;
-    color: black;
     display: block;
 }
 
