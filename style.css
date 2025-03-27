@@ -2,9 +2,16 @@
     margin: 0;
     padding: 0;
 }
+:root{
+    --header-color: #000000;
+    --lista: #81a5c2; 
+    --lista
+    --background: #bbdefb;
+    -menu: white;
+}
 body {
     font-family: Arial, sans-serif;
-    background-color: #dbe9fc; 
+    background-color: var(--background); 
 }
 
 header {
