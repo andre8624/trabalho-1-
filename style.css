@@ -23,7 +23,7 @@ header {
     align-items: center;
     color: var(--texto1);
     padding: 10px;
-    background-color: var(--background);
+    background-color: var(--header);
   
 }
 
