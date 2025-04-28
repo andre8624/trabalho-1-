@@ -149,3 +149,8 @@ nav {
     font-size: 2.4rem;
 
 }
+footer{
+    background-color: var(--lista);
+    display: flex;
+    border-radius: 10px;
+}
