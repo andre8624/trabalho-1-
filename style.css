@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+
 :root{
     --texto1: #000000;
     --lista: #81a5c2; 
@@ -146,4 +147,5 @@ nav {
 }
 .materias{
     font-size: 2.4rem;
+
 }
