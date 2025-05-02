@@ -174,3 +174,15 @@ footer{
 .blocao:hover {
     transform: scale(1.05); 
   }
+
+.container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  @media (max-width: 768px) {
+    .container {
+      flex-direction: column;
+    }
+  }
+  
