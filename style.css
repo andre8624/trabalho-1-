@@ -162,8 +162,10 @@ footer{
 }
 .blocao {
     background-color:var(--blocao) ;
+    border-radius: 5px;
     height: auto;
-    
+    width: auto;
+
 }
 #atividades{
 text-align: start;
