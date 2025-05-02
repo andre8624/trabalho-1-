@@ -29,8 +29,6 @@ header {
     color: var(--texto1);
     padding: 10px;
     background-color: var(--header);
-    flex-direction: column;
-        align-items: flex-start;
 }
 }
 
