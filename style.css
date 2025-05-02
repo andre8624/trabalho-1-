@@ -12,6 +12,8 @@
     --menu: white;
     --lista-background:#90caf9;
     --nav:rgb(136, 136, 173);
+    --blocao:#F5F5DC;
+
 }
 body {
     font-family: Arial, sans-serif;
@@ -157,3 +159,7 @@ footer{
     color: var(--branco);
     width: 100%;
     text-align: center;
+}
+#atividades {
+    background-color: ;
+}
