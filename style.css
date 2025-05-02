@@ -163,6 +163,7 @@ footer{
 .blocao {
     background-color:var(--blocao) ;
     border-radius: 5px;
+    border-color: #81a5c2;
     height: auto;
     width: auto;
 
