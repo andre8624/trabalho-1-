@@ -172,5 +172,5 @@ footer{
    transition: transform 0.3s ease;
 }
 .blocao:hover {
-    transform: scale(1.01); 
+    transform: scale(1.05); 
   }
