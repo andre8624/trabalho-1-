@@ -152,6 +152,8 @@ nav {
 }
 footer{
     background-color: var(--lista);
-    display: flex;
-    border-radius: 10px;
-}
+    position: fixed;
+    bottom: 0;
+    color: var(--branco);
+    width: 100%;
+    text-align: center;
