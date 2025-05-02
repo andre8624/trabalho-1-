@@ -160,6 +160,6 @@ footer{
     width: 100%;
     text-align: center;
 }
-#atividades {
-    background-color: ;
+.bloco {
+    background-color:var(--blocao) ;
 }
