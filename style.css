@@ -20,7 +20,7 @@ body {
     background-color: var(--background); 
     align-items: center;
 }
-
+@media (max-width: 600px) {
 header {
     display: flex;
     justify-content: space-between;
@@ -29,6 +29,7 @@ header {
     padding: 10px;
     background-color: var(--header);
   
+}
 }
 
 .menu {
