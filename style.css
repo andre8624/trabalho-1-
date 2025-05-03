@@ -153,7 +153,7 @@ nav {
     font-size: 2.4rem;
 
 }
-@media (max-width: 1980px){
+@media (max-width: 1920px){
 footer{
     background-color: var(--lista);
     position: fixed;
