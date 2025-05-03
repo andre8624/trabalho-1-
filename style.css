@@ -159,7 +159,9 @@ footer{
     bottom: 0;
     color: var(--branco);
     width: 100%;
-    text-align:start;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 .blocao {
     background-color:var(--blocao) ;
