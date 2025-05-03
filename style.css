@@ -163,6 +163,7 @@ footer{
     justify-content: space-between;
     align-items: center;
     padding: 20PX;
+    padding-right: 10px;
 }
 .blocao {
     background-color:var(--blocao) ;
