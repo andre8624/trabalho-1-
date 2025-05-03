@@ -176,6 +176,7 @@ footer{
 }
 .blocao:hover {
     transform: scale(1.05); 
+    box-shadow:#08126d;
   }
 
 .container {
