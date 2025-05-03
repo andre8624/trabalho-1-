@@ -162,7 +162,7 @@ footer{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10PX;
+    padding: 20PX;
 }
 .blocao {
     background-color:var(--blocao) ;
