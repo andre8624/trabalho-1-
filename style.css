@@ -153,6 +153,7 @@ nav {
     font-size: 2.4rem;
 
 }
+@media (max-width: 600px){
 footer{
     background-color: var(--lista);
     position: fixed;
@@ -164,6 +165,7 @@ footer{
     align-items: center;
     padding: 20PX;
     border-right-width: 10px;
+}
 }
 .blocao {
     background-color:var(--blocao) ;
