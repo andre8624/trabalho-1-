@@ -172,7 +172,7 @@ footer{
    margin-right: 50px;
    padding: 20px;
    transition: transform 0.3s ease;
-   box-shadow: 5px 5px 20px var(--preto);
+   box-shadow: 5px 5px 20px var(--lista);
 }
 .blocao:hover {
     transform: scale(1.05); 
