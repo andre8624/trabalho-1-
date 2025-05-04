@@ -13,7 +13,6 @@
     --lista-background:#90caf9;
     --nav:rgb(136, 136, 173);
     --blocao:#F5F5DC;
-
 }
 body {
     font-family: Arial, sans-serif;
@@ -173,6 +172,7 @@ footer{
    margin-right: 50px;
    padding: 20px;
    transition: transform 0.3s ease;
+   box-shadow: 5px 5px 20px var(--preto);
 }
 .blocao:hover {
     transform: scale(1.05); 
